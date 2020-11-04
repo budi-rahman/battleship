@@ -1,1 +1,3 @@
 # battleship
+
+PLAY USE ARGUMENT VALUE ONLY (CLI)
